@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NID Services</string>
+    <string name="image_chooser">Choose Image</string>
+    <string name="app">FBdown</string>
+    <string name="url">https://fdown.net/</string>
+    <string name="web_id">FBdown-app</string>
+    <string name="iddownload">NID ডাউনলোড</string>
+    <string name="idrevision">NID সংশোদন</string>
+    <string name="abedon">নতুন NID আবেদন</string>
+    <string name="borncheck">জন্ম নিবন্ধন যাচাই</string>
+    <string name="feecalculate">ফি ক্যালকুলেট</string>
+    <string name="cardststus">স্মার্ট কার্ড স্ট্যাটাস</string>
+    <string name="howtodownload">ভোটার আইডি অনলাইন কপি ডাউনলোড করার নিয়ম।</string>
+    <string name="bannerid">ca-app-pub-6064740854010316/9420075628</string>
+    <string name="instratialid">ca-app-pub-6064740854010316/2797421985</string>
+    <string name="rewardid">ca-app-pub-6064740854010316/7149135500</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rate_us">Rate Us★</string>
+</resources>
